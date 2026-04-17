@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-O **ItemTrackr** é um sistema desenvolvido para intermediar a recuperação de itens perdidos em ambientes de grande circulação, como universidades, eventos e centros urbanos.
+O [**ItemTrackr**](main.c) é um sistema desenvolvido para intermediar a recuperação de itens perdidos em ambientes de grande circulação, como universidades, eventos e centros urbanos.
 
 A aplicação permite conectar pessoas que perderam objetos àquelas que os encontraram, oferecendo um fluxo estruturado de cadastro, rastreamento e entrega.
 
