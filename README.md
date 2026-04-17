@@ -51,7 +51,7 @@ O sistema é baseado em modelagem estruturada com entidades como:
 * **TrackingUpdate**
 * **Queue (Fila de pedidos)**
 
-📌 O diagrama do sistema (ver apresentação, página 5) mostra a relação entre essas entidades e o fluxo de rastreamento.
+📌 O diagrama do sistema (ver apresentação, página 5) mostra a relação entre essas entidades e o fluxo de rastreamento.  [Baixar/visualizar Apresentação (PDF)](Apresentacao-me-ii-unidade.pdf)
 
 ---
 
